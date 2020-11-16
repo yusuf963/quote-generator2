@@ -2,6 +2,7 @@ const quoteContainer = document.getElementById('quote-container');
 const quoteText = document.getElementById('quote');
 const quoteAuthor = document.getElementById('author');
 const twitterButton = document.getElementById('twitter');
+console.log(twitterButton)
 const newQuoteButton = document.getElementById('new-quote');
 const loader = document.getElementById('loader');
 
